@@ -1,5 +1,3 @@
-**Table of Contents**
-
 # Tools
 - Python
 - pytest
