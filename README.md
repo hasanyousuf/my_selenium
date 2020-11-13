@@ -32,5 +32,12 @@
 - Reports play import role, Product Engineering team should keep eye on report so they can immediate feedback that features are completed successfully
 - Based on report, they proritize features/bugs tickets to be fixed/developed for future delopement
 
+# How to use
+- Python3 and python3-venv should be installed
+- python3 -m venv venv
+-On Linux use the command
+   source venv/bin/activate
+- pytest -s -v test.py
+
 
 ###End
