@@ -35,6 +35,7 @@
 # How to use
 - Python3 and python3-venv should be installed
 - python3 -m venv venv
+- User need to add URL of application in system environment variable
 -On Linux use the command
    source venv/bin/activate
 - pytest -s -v test.py
